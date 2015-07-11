@@ -1,4 +1,4 @@
-var size = 10
+var size = 8
 var string = ''
 
 for (var i = 1; i <= size; i++)
